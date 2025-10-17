@@ -2,17 +2,6 @@
 
 A RESTful API for managing car dealerships, car manufacturers, and vehicle inventory built with Node.js, Express, TypeScript, and MongoDB.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Environment Variables](#environment-variables)
-- [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-- [Project Structure](#project-structure)
-- [Data Models](#data-models)
 
 ## ✨ Features
 
